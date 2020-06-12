@@ -1,6 +1,5 @@
 # Proyecto final
 ## Pictravel
-### <a href="https://pictravel1.000webhostapp.com/" target="_blank">Visítala aquí</a>
 <p> Aplicación Web desarrollada en el lado servidor con PHP v7 utilizando el framework Laravel.</p>
 <p> Para la parte front-end hago uso del framework VueJs basado en componentes (javascript) y la librería Axios para realizar las peticiones AJAX a la API.</P><hr>
 <p>Author: David Pérez Pardo </p>
