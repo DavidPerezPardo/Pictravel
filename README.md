@@ -2,8 +2,22 @@
 ## Pictravel - <a href="https://pictravel1.000webhostapp.com/" target="_blank">Visítala!</a>
 
 
-<p> Aplicación Web desarrollada en el lado servidor con PHP v7 utilizando el framework Laravel.</p>
-<p> Para la parte front-end hago uso del framework VueJs basado en componentes (javascript) y la librería Axios para realizar las peticiones AJAX a la API.</P>
+<p> Aplicación Web desarrollada en el lado servidor con PHP 7 utilizando el framework Laravel 7.0</p>
+<p> Para la parte front-end hago uso del framework VueJs 2, basado en componentes (javascript) y la librería Axios para realizar las peticiones AJAX a la API.</P>
+<p>La aplicación web ha sido desarollada en base a unas especificaciones y requisitos para el proyecto integrado:</p>
+
+<hr>
+
+### Descripción general
+<p>Pictravel es una aplicación web en la que sus usuarios pueden crear y compartir publicaciones con imágenes sobre lugares visitados, sus descripciones, la posibilidad de realizar comentarios en ellas, etc.</p>
+
+<p>Los usuarios pueden registrarse en la aplicación para poder contar con un perfil de usuario que incluirá un panel de usuario para la gestión de su propio perfil, la posibilidad de crear y subir publicaciones, gestionarlas, visitar las publicaciones del resto de usuarios de la aplicación e interactuar con ellas.</p>
+
+<p>Los usuarios registrados dispondrán de un modo ‘explorar’ que les permite visualizar, buscar, acceder e interaccionar con las publicaciones del resto de los usuarios de la APP.</p>
+
+<p>Se podrá acceder a Pictravel sin registro previo o login, aunque en éste caso ‘sólo’ se pueden visualizar aquellas publicaciones del resto de usuarios que sean públicas, sin la posibilidad de poder acceder e interaccionar con ellas.</p>
+
+<p>La aplicación tiene un tipo de usuario con rol de administrador, éste usuario posee todas las funcionalidades de un usuario registrado cualquiera, pudiendo crear y compartir sus propias publicaciones, interacciónar, etc. Pero además, tiene poderes de administrador, puede gestionar a todos los usuarios de la aplicación y todos sus contenidos, pudiendo cerrar la cuenta a un usuario, eliminar su publicación, comentario, etc. En definitiva, realizar acciones del tipo CRUD.
 <hr>
 
 <p>Author: David Pérez Pardo </p>
@@ -16,6 +30,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+
 
 ## About Laravel
 
