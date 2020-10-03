@@ -1,5 +1,5 @@
 # Proyecto final
-## Pictravel - <a href="https://pictravel1.000webhostapp.com/">Visítala!</a>
+## Pictravel - <a href="https://pictravel1.000webhostapp.com/" target="_blank">Visítala!</a>
 
 
 <p> Aplicación Web desarrollada en el lado servidor con PHP v7 utilizando el framework Laravel.</p>
