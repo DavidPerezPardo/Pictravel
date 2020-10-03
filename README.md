@@ -20,8 +20,8 @@
 <p>La aplicación tiene un tipo de usuario con rol de administrador, éste usuario posee todas las funcionalidades de un usuario registrado cualquiera, pudiendo crear y compartir sus propias publicaciones, interacciónar, etc. Pero además, tiene poderes de administrador, puede gestionar a todos los usuarios de la aplicación y todos sus contenidos, pudiendo cerrar la cuenta a un usuario, eliminar su publicación, comentario, etc. En definitiva, realizar acciones del tipo CRUD.
 <hr>
 
-<p>Author: David Pérez Pardo </p>
-<p>Curso: 2019/2020 - Desarrollo de aplicaciones Web</p><br>
+## Author: David Pérez Pardo
+### Curso: 2019/2020 - Desarrollo de aplicaciones Web<br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 <p align="center">
