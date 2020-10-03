@@ -1,7 +1,6 @@
 # Proyecto Integrado - WebApp
 ## Pictravel - <a href="https://pictravel1.000webhostapp.com/" target="_blank">Visítala y regístrate! 🤪</a>
-
-
+### Introducción:
 <p> Aplicación Web desarrollada en el lado servidor con PHP 7 utilizando el framework Laravel 7.0</p>
 <p> Para la parte front-end hago uso del framework VueJs 2, basado en componentes (javascript) y la librería Axios para realizar las peticiones AJAX a la API.</P>
 <h5>La aplicación web ha sido desarollada en base a unas especificaciones y requisitos de los distintos módulos del curso, tanto de backend como de frontend, para realizar el proyecto integrado.<br>
@@ -18,7 +17,7 @@
 
 <hr>
 
-## Herramientas utilizadas: 🛠️
+### Herramientas utilizadas: 🛠️
 
 * Frontend:
   * Preprocesador SASS
@@ -47,7 +46,7 @@
 <p>La aplicación tiene un tipo de usuario con rol de administrador, éste usuario posee todas las funcionalidades de un usuario registrado cualquiera, pudiendo crear y compartir sus propias publicaciones, interacciónar, etc. Pero además, tiene poderes de administrador, puede gestionar a todos los usuarios de la aplicación y todos sus contenidos, pudiendo cerrar la cuenta a un usuario, eliminar su publicación, comentario, etc. En definitiva, realizar acciones del tipo CRUD.
 <hr>
 
-## Author: David Pérez Pardo
+### Author: David Pérez Pardo
 ### Curso: 2019/2020 - Desarrollo de aplicaciones Web<br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
