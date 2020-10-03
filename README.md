@@ -1,4 +1,4 @@
-# Proyecto final
+# Proyecto Integrado - WebApp
 ## Pictravel - <a href="https://pictravel1.000webhostapp.com/" target="_blank">Visítala y regístrate! 🤪</a>
 
 
