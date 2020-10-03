@@ -4,9 +4,36 @@
 
 <p> Aplicación Web desarrollada en el lado servidor con PHP 7 utilizando el framework Laravel 7.0</p>
 <p> Para la parte front-end hago uso del framework VueJs 2, basado en componentes (javascript) y la librería Axios para realizar las peticiones AJAX a la API.</P>
-<p>La aplicación web ha sido desarollada en base a unas especificaciones y requisitos para el proyecto integrado:</p>
+<h5>La aplicación web ha sido desarollada en base a unas especificaciones y requisitos de los distintos módulos del curso, tanto de backend como de frontend, para realizar el proyecto integrado.
+<br>En términos generales:</h5>
+
+* Patrón de arquitectura MVC
+* Diseño responsive y maquetación web con CSS3 ( Grid layout, Flexbox etc... )
+* Validación de formularios tanto en el lado cliente cómo en lado servidor
+* Contenido multimedia, uso de la API Canvas de HTML5
+* Login y registro de usuarios
+* Sistema de autentificación
+* Creación de API RESTful
+* Panel de administrador
 
 <hr>
+
+## Herramientas utilizadas: 🛠️
+
+* Frontend:
+  * Preprocesador SASS
+  * Vuejs 2
+  * Vee-validate
+  * Momentjs
+  * Axios
+  * Animejs
+  * Chartjs
+  
+* Backend:
+  * Laravel 7.0
+  * Laravel-mix
+  * Laravel-ui
+
 
 ### Descripción general
 <p>Pictravel es una aplicación web en la que sus usuarios pueden crear y compartir publicaciones con imágenes sobre lugares visitados, sus descripciones, la posibilidad de realizar comentarios en ellas, etc.</p>
